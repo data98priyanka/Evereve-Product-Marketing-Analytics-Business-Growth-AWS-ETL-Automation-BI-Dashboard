@@ -3,9 +3,8 @@
 <p style="font-size:0.95em; color: #555;">
 Product & Marketing Research Analyst initiative | FMCG • Women’s Health & Personal Care • Feminine Hygiene • B2C
 </p>
-## 🌍 Company Vision (Public & Strategic Context)
-
-Whisper positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
+> **🌍 Whisper Company Vision (Public & Strategic Context)**  
+> Whisper positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 
 
 ---
