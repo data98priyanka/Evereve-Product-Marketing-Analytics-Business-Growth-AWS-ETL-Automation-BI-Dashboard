@@ -19,7 +19,6 @@
   ----
   ## 📥 Data Ingestion & Source Systems (Real Case Scenario) --
 
-This analysis is based on large-scale, multi-source enterprise data ingested from both operational and digital platforms across the organization.
 Raw data was received in multiple structured and semi-structured formats, including **JSON**, **CSV**, and **Parquet**, **Databases**, and integrated into the analytics environment through standardized ingestion pipelines.
 
 **Raw Data source systems included:**
