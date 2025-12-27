@@ -3,13 +3,15 @@
 <p style="font-size:12px; color:#555;">
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
+<p>
+  <img src="IMAGES/logo.png" width="500" align="left" style="margin-right:20px;"/>
+</p>
 
 > **🌍 Whisper Company Vision (Public & Strategic Context)**  
 > Whisper positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 
 ## 👤 Role in This Project --
 **Role:** Product & Marketing Research Analyst (project role)
-
 **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Analyzed regional sales trends and campaign performance
