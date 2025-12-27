@@ -73,8 +73,8 @@ In total, the dataset comprised over **32 source tables and approximately 5 mill
     <td align="center"><b>After Campaign</b></td>
   </tr>
   <tr>
-    <td><img src="IMAGES/11.JPG" width="800"/></td>
-    <td><img src="IMAGES/22.JPG" width="800"/></td>
+    <td><img src="IMAGES/11.JPG" width="1000"/></td>
+    <td><img src="IMAGES/22.JPG" width="1000"/></td>
   </tr>
 </table>
 
