@@ -18,17 +18,13 @@
 
   ----
   ## 📥 Data Ingestion & Source Systems (Real Case Scenario) --
-
-Raw data was received in multiple structured and semi-structured formats, including **JSON**, **CSV**, and **Parquet**, **Databases**, and integrated into the analytics environment through standardized ingestion pipelines.
-
+Large-scale, multi-source enterprise data ingested from both operational and digital platforms across the organization.Raw data was received in multiple structured and semi-structured formats, including **JSON**, **CSV**, and **Parquet**, **Databases**, and integrated into the analytics environment through standardized ingestion pipelines.
 **Raw Data source systems included:**
 - Customer Relationship Management (CRM) system
 - Enterprise Resource Planning (ERP) system
 - Website and digital interaction logs
 - Application and API telemetry logs
 - Social and external engagement platforms
-
-
 In total, the dataset comprised over **32 source tables and approximately 5 million raw records**, reflecting real-world data volume, variety, and complexity typical of a mid-to-large enterprise environment.
 
 ---
