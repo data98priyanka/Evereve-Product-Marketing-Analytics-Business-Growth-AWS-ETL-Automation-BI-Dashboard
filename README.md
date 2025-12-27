@@ -13,7 +13,7 @@
 ## 👤 Role in This Project --
 **Role:** Product & Marketing Research Analyst (project role)
 
-** ✔ Scope & Responsibilities:**
+ ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Identified and quantified drivers of underperformance and growth
 - Designed and executed the pre–post impact evaluation framework
