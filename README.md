@@ -4,7 +4,7 @@
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
 <p>
-  <img src="IMAGES/logo.png" 600" align="left" style="margin-right:20px;"/>
+  <img src="IMAGES/logo.png"300" align="left" style="margin-right:20px;"/>
 </p>
 
 > **🌍 Whisper Company Vision (Public & Strategic Context)**  
