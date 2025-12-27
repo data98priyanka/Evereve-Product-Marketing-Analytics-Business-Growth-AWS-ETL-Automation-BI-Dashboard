@@ -1,5 +1,5 @@
 
-<h1 style="font-size:1.6em;">Whisper — Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h1>
+<h1 style="font-size:1.6em;"> Evereve — Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h1>
 <p style="font-size:12px; color:#555;">
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
@@ -8,7 +8,7 @@
 </p>
 
 > **🌍 Whisper Company Vision (Public & Strategic Context)**  
-> Whisper positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
+> Evereve positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 
 ## 👤 Role in This Project --
 **Role:** Product & Marketing Research Analyst (project role)
