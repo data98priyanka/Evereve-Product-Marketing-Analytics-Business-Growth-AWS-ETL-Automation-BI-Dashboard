@@ -1,7 +1,7 @@
 # Whisper - Product-Marketing-Business-Intelligence-Growth
-<h2 style="font-size:1.4em;">Whisper — Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h2>
+<h1 style="font-size:1.4em;">Whisper — Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h1>
 <p style="font-size:12px; color:#555;">
-  <b><i><u>Product & Marketing Research Analyst initiative | FMCG • Women’s Health & Personal Care • Feminine Hygiene • B2C</u></i></b>
+  <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
 
 > **🌍 Whisper Company Vision (Public & Strategic Context)**  
