@@ -7,6 +7,16 @@
 > **🌍 Whisper Company Vision (Public & Strategic Context)**  
 > Whisper positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 
+## 👤 Role in This Project --
+**Role:** Product & Marketing Research Analyst (project role)
+**Scope & Responsibilities:**
+- Structured the business problem and defined key success metrics
+- Analyzed regional sales trends and campaign performance
+- Identified and quantified drivers of underperformance and growth
+- Designed and executed the pre–post impact evaluation framework
+- Synthesized insights into clear, actionable business recommendations
+
+
 
 ---
 
