@@ -14,12 +14,12 @@
 
 | Leadership Question |
 |----------------------|
-| Where exactly are we underperforming across regions, and what are the primary drivers of that underperformance? |
-| Did the targeted discounts and festival campaigns deliver sustainable improvement, or only short-term uplift? |
+| 🔴 Where exactly are we underperforming across regions, and what are the primary drivers of that underperformance? |
+| 🔴 Did the targeted discounts and festival campaigns deliver sustainable improvement, or only short-term uplift? |
 
 ### 🔁 My Counter-Question (As Marketing Analyst Perspective)
 
-Are we optimizing primarily for short-term sales growth or for long-term customer retention and brand trust — and should our strategy differ based on that objective?
+🔶 Are we optimizing primarily for short-term sales growth or for long-term customer retention and brand trust — and should our strategy differ based on that objective?
 
 
 <h2>📊 Before vs After Campaign Impact</h2>
