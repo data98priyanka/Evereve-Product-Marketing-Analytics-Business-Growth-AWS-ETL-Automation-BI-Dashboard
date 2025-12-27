@@ -9,6 +9,7 @@
 
 ## 👤 Role in This Project --
 **Role:** Product & Marketing Research Analyst (project role)
+
 **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Analyzed regional sales trends and campaign performance
