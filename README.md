@@ -17,7 +17,7 @@
 - Synthesized insights into clear, actionable business recommendations
 
   ----
-  ## 📥 Data Ingestion & Source Systems (Real Case Scenario) --
+  ## 📥 Raw Data Ingestion & Source Systems (Real Case Scenario) --
 Large-scale, multi-source enterprise data ingested from both operational and digital platforms across the organization.Raw data was received in multiple structured and semi-structured formats, including **JSON**, **CSV**, and **Parquet**, **Databases**, and integrated into the analytics environment through standardized ingestion pipelines.
 **Raw Data source systems included:**
 - Customer Relationship Management (CRM) system
