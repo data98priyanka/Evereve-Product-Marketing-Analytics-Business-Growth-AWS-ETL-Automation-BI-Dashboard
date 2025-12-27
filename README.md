@@ -25,6 +25,7 @@ Large-scale, multi-source enterprise data ingested from both operational and dig
 - Website and digital interaction logs
 - Application and API telemetry logs
 - Social and external engagement platforms
+
 In total, the dataset comprised over **32 source tables and approximately 5 million raw records**, reflecting real-world data volume, variety, and complexity typical of a mid-to-large enterprise environment.
 
 ---
