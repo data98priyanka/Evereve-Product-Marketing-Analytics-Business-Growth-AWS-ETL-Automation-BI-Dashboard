@@ -10,6 +10,17 @@
 > 🌍 **Evereve Company Vision (Public & Strategic Context)**  
 > Evereve positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 
+🔹 [Scope](#scope): End-to-end product & marketing analytics project
+🔹 [Data](#data): CRM + ERP + Web | Multi-million records
+🔹 [Stakeholders](#stakeholders): Business, Sales, Marketing leadership
+🔹 [Role](#role): Product & Marketing Data Analyst
+🔹 [Method](#method): Pre–Post analysis, segmentation, trend analysis
+🔹 [Visualization](#visualization): Executive dashboards and storytelling
+🔹 [Forecast](#forecast): Trend-based projections and scenario analysis
+🔹 [Workflow](#workflow): End-to-end analytics pipeline
+🔹 [Code](#code): SQL & Python scripts
+
+
 ## ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Identified and quantified drivers of underperformance and growth
