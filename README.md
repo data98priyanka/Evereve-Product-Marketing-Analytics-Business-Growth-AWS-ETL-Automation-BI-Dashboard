@@ -40,7 +40,7 @@
 
 🔶 Are we optimizing primarily for short-term sales growth or for long-term customer retention and brand trust — and should our strategy differ based on that objective?
 ----
------
+
 <div style="font-size: 0.50em;">
 
 ## 📌 Business Summary
