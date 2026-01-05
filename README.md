@@ -18,7 +18,7 @@
 🔹 [Visualization](#visualization): Executive dashboards and storytelling
 🔹 [Forecast](#forecast): Trend-based projections and scenario analysis
 🔹 [Workflow](#workflow): End-to-end analytics pipeline
-🔹 [Code](#code): SQL & Python scripts
+🔹 [Code](#code): SQL & Python scripts |
 
 
 ## ✔ **Scope & Responsibilities:**
