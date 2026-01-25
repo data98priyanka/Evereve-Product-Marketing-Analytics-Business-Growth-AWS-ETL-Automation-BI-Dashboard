@@ -20,7 +20,12 @@
 🔹 [Workflow](#workflow): End-to-end analytics pipeline
 🔹 [Code](#code): SQL & Python scripts |
 
+----
 
+## 📌 ETL Pipeline - Data Ingestion flowchart
+<img src="IMAGES/ETL%20flowchart.png" width="900"/>
+
+----
 ## ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Identified and quantified drivers of underperformance and growth
@@ -99,9 +104,6 @@
 **Proflie** - [Priyanka De](https://www.linkedin.com/in/priyanka-de-711555289/)
 
 
-
-## 📌 ETL Pipeline Slide Show
-<img src="IMAGES/ETL%20flowchart.png" width="900"/>
 
 
 
