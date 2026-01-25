@@ -1,5 +1,5 @@
 
-<h1 style="font-size:1.6em;"> Evereve — Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h1>
+<h1 style="font-size:1.6em;"> Evereve — ⭐End to End Full Stack Analyst Project | Data ingestion- ETL-Pipeline-Automation | Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through Product & Marketing Analytics</h1>
 <p style="font-size:12px; color:#555;">
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
