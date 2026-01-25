@@ -55,7 +55,7 @@ This project addresses the need for <b>data-driven growth</b> and smarter <b>dec
 </small>
 
 ----
-## ⚡ Product and Market Analyst Counter Questions to the Stakeholders
+## ⚡ Product and Market Analyst Counter Questions to the Stakeholders :
 
 To align analytics with real business impact, I framed the following counter-questions for stakeholders across **Marketing, Product, Sales, Production, and Growth Section**:
 
