@@ -97,3 +97,24 @@
 **Team Size:** 2  
 **Author:** Priyanka De  
 **Proflie** - [Priyanka De](https://www.linkedin.com/in/priyanka-de-711555289/)
+
+
+
+## 📌 ETL Pipeline Slide Show
+
+---
+
+<img src="IMAGES/11.JPG" width="900"/>
+
+---
+
+<img src="IMAGES/22.JPG" width="900"/>
+
+---
+
+<img src="IMAGES/33.png" width="900"/>
+
+---
+
+<img src="IMAGES/ETL%20flowchart.png" width="900"/>
+
