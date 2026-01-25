@@ -65,16 +65,6 @@ To align analytics with real business impact, I framed the following counter-que
 2. **Marketing ROI:** Which success metric matters most right now — **ROAS, CAC, cost per repeat customer, or contribution margin after marketing spend**?
 4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
 5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**), and which one delivers the best mix of **sales + repeat + margin**?
-
-
-
-
-
-----
-
-## 📌 ETL Pipeline - Data Ingestion flowchart
-<img src="IMAGES/ETL%20flowchart.png" width="900"/>
-
 ----
 ## ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
@@ -82,19 +72,12 @@ To align analytics with real business impact, I framed the following counter-que
 - Designed and executed the pre–post impact evaluation framework
 - Synthesized insights into clear, actionable business recommendations
 
-  ----
-
-## ❓ Leadership Questions Raised by Stakeholders |(Sales Head & CMO)
-
-| Leadership Question |
-|----------------------|
-| 🔴 Where exactly are we underperforming across regions, and what are the primary drivers of that underperformance? |
-| 🔴 Did the targeted discounts and festival campaigns deliver sustainable improvement, or only short-term uplift? |
-
-# 🔁 My Counter-Question (As Marketing Analyst Perspective)
-  🔶 Are we optimizing primarily for short-term sales growth or for long-term customer retention and brand trust — and should our strategy differ based on that objective?
 ----
 
+## 📌 ETL Pipeline - Data Ingestion flowchart
+<img src="IMAGES/ETL%20flowchart.png" width="900"/>
+
+----
 <div style="font-size: 0.50em;">
 
 ## 📌 Business Summary
