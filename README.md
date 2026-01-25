@@ -7,8 +7,10 @@
 <img src="IMAGES/logo.png" width="300" align="LEFT" style="margin-right:15px;"/>
 </p>
 
-> 🌍 **Evereve Company Vision (Public & Strategic Context)**  
-> Evereve positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
+<small>
+🌍 <b>Evereve Company Vision (Public & Strategic Context)</b><br>
+Evereve positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
+</small>
 
 🔹 [Scope](#scope): End-to-end product & marketing analytics project
 🔹 [Data](#data): CRM + ERP + Web | Multi-million records
