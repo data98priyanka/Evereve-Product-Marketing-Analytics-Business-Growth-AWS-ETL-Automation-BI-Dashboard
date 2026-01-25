@@ -55,20 +55,7 @@ This project addresses the need for <b>data-driven growth</b> and smarter <b>dec
 </small>
 
 ----
-## 📝 Objectives
 
-<small>
-
-- **Evaluate Product Performance:** Analyze pack-size and SKU-level performance to identify best-selling products, profitability drivers, and improvement areas 📦  
-- **Improve Customer Retention:** Understand repeat purchase behavior and churn patterns to increase customer loyalty and long-term growth 🔁  
-- **Optimize Pricing & Promotions:** Measure the impact of pricing and discounts to balance sales growth with healthy profit margins 💸  
-- **Assess Marketing Efficiency:** Evaluate campaign performance to improve ROI and reduce wasteful marketing spend 🎯  
-- **Enable Expansion Strategy:** Identify high-potential regions and sales channels for scalable growth and stronger market presence 🗺️  
-
-</small>
-
-
-----
 ## ⚡ Product and Market Analyst Counter Questions to the Stakeholders :
 
 For more realtime business impact, I framed the following counter-questions for stakeholders across **Marketing, Product, Sales, Production, and Growth Section**:
@@ -80,6 +67,21 @@ For more realtime business impact, I framed the following counter-questions for 
 4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
 5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**)?
 </small>
+
+----
+## 📝 Objectives
+
+<sub>
+
+- **Evaluate Product Performance:** Analyze pack-size and SKU-level performance to identify best-selling products, profitability drivers, and improvement areas 📦  
+- **Improve Customer Retention:** Understand repeat purchase behavior and churn patterns to increase customer loyalty and long-term growth 🔁  
+- **Optimize Pricing & Promotions:** Measure the impact of pricing and discounts to balance sales growth with healthy profit margins 💸  
+- **Assess Marketing Efficiency:** Evaluate campaign performance to improve ROI and reduce wasteful marketing spend 🎯  
+- **Enable Expansion Strategy:** Identify high-potential regions and sales channels for scalable growth and stronger market presence 🗺️  
+
+</sub>
+
+
 
 ----
 
