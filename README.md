@@ -12,6 +12,7 @@
 Evereve positions itself as a women’s hygiene and personal care brand focused on improving access to safe, reliable, and high-quality feminine hygiene products, while promoting awareness, dignity, and well-being for women across different socio-economic segments.
 </small>
 
+---
 🔹 [Scope](#scope): End-to-end product & marketing analytics project
 🔹 [Data](#data): CRM + ERP + Web | Multi-million records
 🔹 [Stakeholders](#stakeholders): Business, Sales, Marketing leadership
