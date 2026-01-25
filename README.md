@@ -32,7 +32,7 @@
 </small>
 
 ----
-<h2>🎯 Stackholdes Problem Statements  : </h2> 
+<h2>🎯 Stackholders Problem Statements  : </h2> 
 
 <small>
 <span style="color:gray;">
