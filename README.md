@@ -95,7 +95,20 @@ For more realtime business impact, I framed the following counter-questions for 
 </small>
 
 ----
+## 💾 Data
+<small>
+  
+The analysis is powered by a high-volume real-world dataset comprising **1M+ records**, sourced from multiple business systems:
 
+- **CRM Data:** Customer profiles, purchase history, repeat behavior, and loyalty signals 🧑‍🤝‍🧑  
+- **ERP / Sales Data:** Orders, invoices, SKU-wise sales, pricing, discounts, and channel performance 🧾  
+- **Web & App Analytics:** Website traffic, conversions, product page views, and funnel drop-offs 🌐  
+- **Marketing Data:** Campaign spend, impressions, clicks, conversions, and ROI metrics 🎯  
+- **Production Data:** Manufacturing output, inventory availability, stock-outs, and SKU-level supply constraints 🏭 
+
+</small>
+
+---
 ## 📌 ETL Pipeline - Data Ingestion flowchart
 <img src="IMAGES/ETL%20flowchart.png" width="900"/>
 
