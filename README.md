@@ -101,20 +101,5 @@
 
 
 ## 📌 ETL Pipeline Slide Show
-
----
-
-<img src="IMAGES/11.JPG" width="900"/>
-
----
-
-<img src="IMAGES/22.JPG" width="900"/>
-
----
-
-<img src="IMAGES/33.png" width="900"/>
-
----
-
 <img src="IMAGES/ETL%20flowchart.png" width="900"/>
 
