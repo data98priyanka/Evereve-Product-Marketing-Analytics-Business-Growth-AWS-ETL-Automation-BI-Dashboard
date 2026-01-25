@@ -70,10 +70,12 @@ For more realtime business impact, I framed the following counter-questions for 
 ----
 
 ## ✔ **Scope & Responsibilities:**
-- Structured the business problem and defined key success metrics
-- Identified and quantified drivers of underperformance and growth
-- Designed and executed the pre–post impact evaluation framework
+<small>
+- Structured the business problem and defined key success metrics<br>
+- Identified and quantified drivers of underperformance and growth<br>
+- Designed and executed the pre–post impact evaluation framework<br>
 - Synthesized insights into clear, actionable business recommendations
+</small>
 
 ----
 
