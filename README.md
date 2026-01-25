@@ -58,14 +58,17 @@ This project addresses the need for <b>data-driven growth</b> and smarter <b>dec
 ## ⚡ Product and Market Analyst Counter Questions to the Stakeholders :
 
 For more realtime business impact, I framed the following counter-questions for stakeholders across **Marketing, Product, Sales, Production, and Growth Section**:
-
+<small>
 1. **Growth Objective:**<br>
      • Are we prioritizing **new customer acquisition** or **repeat purchases**, and what is the target uplift for the next **3–6 months**?<br>
      • Are we **optimizing primarily** for **short-term sales growth** or for **long-term customer retention and brand trus**t — and should our **strategy differ based** on that objective?
 2. **Marketing ROI:** Which success metric matters most right now — **ROAS, CAC, cost per repeat customer, or contribution margin after marketing spend**?
 4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
 5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**)?
+</small>
+
 ----
+
 ## ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
 - Identified and quantified drivers of underperformance and growth
