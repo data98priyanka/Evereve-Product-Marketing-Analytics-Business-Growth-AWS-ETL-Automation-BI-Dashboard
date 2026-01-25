@@ -64,7 +64,7 @@ To align analytics with real business impact, I framed the following counter-que
      • Are we **optimizing primarily** for **short-term sales growth** or for **long-term customer retention and brand trus**t — and should our **strategy differ based** on that objective?
 2. **Marketing ROI:** Which success metric matters most right now — **ROAS, CAC, cost per repeat customer, or contribution margin after marketing spend**?
 4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
-5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**), and which one delivers the best mix of **sales + repeat + margin**?
+5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**)?
 ----
 ## ✔ **Scope & Responsibilities:**
 - Structured the business problem and defined key success metrics
