@@ -145,12 +145,5 @@ For more realtime business impact, I framed the following counter-questions for 
 
 
 
-## 📌 Slides Preview (Last 3)
-
-<p float="left">
-  <img src="IMAGES/22.JPG" width="32%" />
-  <img src="IMAGES/33.png" width="32%" />
-  <img src="IMAGES/ETL%20flowchart.png" width="32%" />
-</p>
 
 
