@@ -71,7 +71,7 @@ For more realtime business impact, I framed the following counter-questions for 
 ----
 ## 📝 Objectives
 
-<sub>
+<small>
 
 - **Evaluate Product Performance:** Analyze pack-size and SKU-level performance to identify best-selling products, profitability drivers, and improvement areas 📦  
 - **Improve Customer Retention:** Understand repeat purchase behavior and churn patterns to increase customer loyalty and long-term growth 🔁  
@@ -79,7 +79,8 @@ For more realtime business impact, I framed the following counter-questions for 
 - **Assess Marketing Efficiency:** Evaluate campaign performance to improve ROI and reduce wasteful marketing spend 🎯  
 - **Enable Expansion Strategy:** Identify high-potential regions and sales channels for scalable growth and stronger market presence 🗺️  
 
-</sub>
+</small>
+
 
 
 
