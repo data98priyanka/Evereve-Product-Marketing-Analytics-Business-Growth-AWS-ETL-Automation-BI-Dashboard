@@ -17,15 +17,60 @@
 
 
 ---
-🔹 [Scope](#scope): End-to-end product & marketing analytics project
-🔹 [Data](#data): CRM + ERP + Web | Multi-million records
-🔹 [Stakeholders](#stakeholders): Business, Sales, Marketing leadership
-🔹 [Role](#role): Product & Marketing Data Analyst
-🔹 [Method](#method): Pre–Post analysis, segmentation, trend analysis
-🔹 [Visualization](#visualization): Executive dashboards and storytelling
-🔹 [Forecast](#forecast): Trend-based projections and scenario analysis
-🔹 [Workflow](#workflow): End-to-end analytics pipeline
-🔹 [Code](#code): SQL & Python scripts |
+<h3>🚀 Project Overview : </h3> 
+
+<small>
+<span style="color:gray;">
+
+• This project delivers a <b>comprehensive, data-driven analysis</b> for a <b>Sanitary Napkin FMCG brand</b> , focused on <b>Product Strategy</b> and <b>Marketing Performance</b> 📊 to accelerate growth in a highly competitive market 📈. <br>
+
+• The core objective is to identify what truly drives <b>sales</b> and <b>repeat purchases</b> — including <b>pack-size performance</b>, <b>pricing</b>, <b>customer retention</b> 🔁, <b>promotions</b> 💸, and <b>campaign impact</b> 🚀. <br>
+
+• The project delivers <b>clear insights</b> and <b>actionable recommendations</b> to improve <b>product performance</b>, <b>customer loyalty</b>, <b>marketing efficiency</b>, and <b>regional expansion</b> 🗺️ — enabling smarter decisions and <b>sustainable growth</b> 🏆.
+
+</span>
+</small>
+
+----
+<h2>🎯 Problem Statement : </h2> 
+
+<small>
+<span style="color:gray;">
+
+The <b>sanitary napkin market in India</b> is highly competitive and fast-changing, driven by:
+
+1. <b>Strong competition</b> from established and emerging brands 🏷️  
+2. <b>Price-sensitive customers</b> and heavy <b>discounting wars</b> 💸  
+3. The need to improve <b>awareness</b>, <b>trust</b>, and <b>repeat purchases</b> 🩷  
+4. Changing consumer expectations for <b>comfort</b>, <b>safety</b>, and <b>quality</b> 🌿  
+
+This project addresses the need for <b>data-driven growth</b> and smarter <b>decision-making</b>. By analyzing <b>product</b>, <b>sales</b>, and <b>marketing performance</b>, we aim to:
+
+1. Identify what drives <b>sales</b> and <b>repeat buying</b> 🔁  
+2. Optimize <b>pricing</b>, <b>pack sizes</b>, and <b>promotions</b> 📦  
+3. Improve <b>marketing efficiency</b> and <b>ROI</b> 🎯  
+4. Discover <b>high-potential regions</b> and <b>channels</b> for expansion 🗺️  
+
+</span>
+</small>
+
+----
+## ⚡ Product and Market Analyst Counter Questions to the Stakeholders
+
+To align analytics with real business impact, I framed the following counter-questions for stakeholders across **Marketing, Product, Sales, Production, and Growth Section**:
+
+1. **Growth Objective:**<br>
+     • Are we prioritizing **new customer acquisition** or **repeat purchases**, and what is the target uplift for the next **3–6 months**?<br>
+     • Are we **optimizing primarily** for **short-term sales growth** or for **long-term customer retention and brand trus**t — and should our **strategy differ based** on that objective?
+3. **Marketing ROI:** Which success metric matters most right now — **ROAS, CAC, cost per repeat customer, or contribution margin after marketing spend**?
+4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
+5. **Pricing & Promotions:** What is the maximum discount level allowed without harming profitability, and are we seeing **discount dependency** among customers?
+6. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**), and which one delivers the best mix of **sales + repeat + margin**?
+7. **Production Readiness:** Can production support projected growth (avoid stock-outs), and are there constraints on **capacity, raw materials, or lead time**?
+make each purpose blue
+
+
+
 
 ----
 
