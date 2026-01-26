@@ -71,9 +71,9 @@ For more realtime business impact, I framed the following counter-questions for 
 
 | Area | Key Question | Business Decision Enabled |
 |---|---|---|
-| 🎯 Growth | **Acquisition vs Repeat** — what is the **3–6 month uplift target**? | Growth roadmap (new vs retention-led) |
-| 💰 Marketing ROI | Priority metric: **ROAS / CAC / Cost per Repeat / Margin after spend**? | Budget allocation + campaign KPI framework |
-| 📦 Product Strategy | Priority Optimization which one **volume or margin**? | SKU roadmap + pack-size optimization |
+| 🎯 Growth | **Acquisition vs Repeat** — what is the **3–6 month uplift target**? | Growth roadmap |
+| 💰 Marketing ROI | Priority metric: **ROAS / CAC / Cost per Repeat / Margin after spend**? | Budget allocation & campaign  |
+| 📦 Product Strategy | Priority Optimization which one **volume or margin**? | SKU roadmap & pack-size optimization |
 | 🛒 Channel Focus | Priority metric: **Retail / D2C / Marketplace**- what is the **3–6 month uplift target**? | Channel strategy + execution focus |
 
 </small>
