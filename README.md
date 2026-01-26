@@ -1,5 +1,5 @@
 
-<h1 style="font-size:1.6em;"> Evereve — ⭐End to End Full Stack Analyst Project | Data ingestion (CRM + ERP + WEB) |AWS-ETL-Pipeline-Automation | Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through - Product & Marketing Analysis</h1>
+<h1 style="font-size:1.6em;">✚ Evereve — ⭐End to End Full Stack Analyst Project | Data ingestion (CRM + ERP + WEB) |AWS-ETL-Pipeline-Automation | Driving Sustainable Sales Growth and Marketing Efficiency in Women’s Health through - Product & Marketing Analysis</h1>
 <p style="font-size:12px; color:#555;">
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
@@ -80,7 +80,7 @@ For more realtime business impact, I framed the following counter-questions for 
 
 ---
 ## 📌 ETL Pipeline - Data Ingestion flowchart
-<img src="IMAGES/ETL%20flowchart.png" width="900"/>
+<img src="IMAGES/etl -data -details1.png" width="900"/>
 
 ----
 <div style="font-size: 0.50em;">
