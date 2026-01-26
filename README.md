@@ -24,7 +24,7 @@
 
 <h3> 🔥 End-to-End Growth Engine (What I analyzed) - </h3>
 
-📦 **Products (Pack-size / SKU)** → 💸 **Pricing & Promotions** → 🔁 **Retention & Repeat Purchase** → 🚀 **Campaign Uplift** → 🗺️ **Regional Scaling**
+📦 **Products (Pack-size / SKU)** → 💸 **Pricing & Promotions** →    🔁 **Retention & Repeat Purchase** → 🚀 **Campaign Uplift** → 🗺️ **Regional Scaling**
 
 ### ✅ What the project delivers
 - ✅ Sales driver identification & SKU contribution analysis  
@@ -114,27 +114,6 @@ For more realtime business impact, I framed the following counter-questions for 
 
 ----
 
-
-
-
----
-## **⚙️ End-to-End Analytics Workflow — (As per the Company Need and Stakeholder Ask)**
-
-| *Step* | *Layer / Phase* | *Description* | *Tools & Techniques* |
-|--------|------------------|---------------|----------------------|
-| 1 | Data Ingestion | Ingested data from CRM, ERP, web events, APIs, and partners | APIs, Batch Jobs, Cloud Connectors |
-| 2 | Bronze Layer | Stored raw data in the data lake | AWS S3 / Azure Data Lake |
-| 3 | Data Quality & Validation | Applied schema validation, null checks, and deduplication | SQL (JOINs, GROUP BY, CTEs, Window Functions), Python |
-| 4 | Silver Layer | Created cleaned and standardized analytical tables | SQL, Python |
-| 5 | EDA & Statistical Analysis | Performed pattern discovery and hypothesis testing | SQL, Python (NumPy, Pandas), Statistics |
-| 6 | Gold Layer | Built business-ready aggregates and KPIs | SQL, Power BI |
-| 7 | Modeling / Segmentation | Built models and segments when needed | Python (scikit-learn), SQL |
-| 8 | Visualization & Storytelling | Designed dashboards and narratives | Python (Matplotlib, Seaborn, Plotly), Power BI (DAX, Power Query) |
-| 9 | Governance & Compliance | Ensured privacy, security, and access control | IAM, Data Policies |
-|10 | Business Delivery | Reviewed insights with stakeholders and iterated | Presentations, Reviews |
-|11 | Stakeholder Communication | Communicated insights clearly, aligned teams, and supported decision-making | Storytelling, Executive Summaries |
-|12 | Decision & Impact Review | Measured outcomes, validated assumptions, and refined strategy | KPI Tracking, Post-Analysis |
-|13 | Continuous Improvement | Incorporated feedback and continuously improved models and processes | Retrospectives, Iteration |
 
 
 **Team Size:** 2  
