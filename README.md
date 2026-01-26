@@ -19,17 +19,20 @@
 ---
 <h3>🚀 Project Overview : </h3> 
 
-<small>
-<span style="color:gray;">
+- **Industry:** FMCG (Personal Care)  
+- **Role Focus:** Product Strategy + Marketing Performance
 
-• This project delivers a <b>comprehensive, data-driven analysis</b> for a <b>Sanitary Napkin FMCG brand</b> , focused on <b>Product Strategy</b> and <b>Marketing Performance</b> 📊 to accelerate growth in a highly competitive market 📈. <br>
+<h3> 🔥 End-to-End Growth Engine (What I analyzed) - </h3>
 
-• The core objective is to identify what truly drives <b>sales</b> and <b>repeat purchases</b> — including <b>pack-size performance</b>, <b>pricing</b>, <b>customer retention</b> 🔁, <b>promotions</b> 💸, and <b>campaign impact</b> 🚀. <br>
+📦 **Products (Pack-size / SKU)** → 💸 **Pricing & Promotions** → 🔁 **Retention & Repeat Purchase** → 🚀 **Campaign Uplift** → 🗺️ **Regional Scaling**
 
-• The project delivers <b>clear insights</b> and <b>actionable recommendations</b> to improve <b>product performance</b>, <b>customer loyalty</b>, <b>marketing efficiency</b>, and <b>regional expansion</b> 🗺️ — enabling smarter decisions and <b>sustainable growth</b> 🏆.
+### ✅ What the project delivers
+- ✅ Sales driver identification & SKU contribution analysis  
+- ✅ Repeat purchase & loyalty insights (retention / churn patterns)  
+- ✅ Promotion & pricing impact measurement (uplift vs margin)  
+- ✅ Campaign effectiveness & marketing ROI optimization  
+- ✅ Region/channel expansion recommendations for scalable growth  
 
-</span>
-</small>
 
 ----
 <h2>🎯 Stackholders Problem Statements  : </h2> 
@@ -41,15 +44,20 @@ The <b>sanitary napkin market in India</b> is highly competitive and fast-changi
 
 1. <b>Strong competition</b> from established and emerging brands 🏷️  
 2. <b>Price-sensitive customers</b> and heavy <b>discounting wars</b> 💸  
-3. The need to improve <b>awareness</b>, <b>trust</b>, and <b>repeat purchases</b> 🩷  
+3. The need to improve <b>awareness</b>, <b>trust</b>, and <b>repeat purchases</b> 
 4. Changing consumer expectations for <b>comfort</b>, <b>safety</b>, and <b>quality</b> 🌿  
 
 This project addresses the need for <b>data-driven growth</b> and smarter <b>decision-making</b>. By analyzing <b>product</b>, <b>sales</b>, and <b>marketing performance</b>, we aim to:
+## 📝 Objectives (Business Problem Framework)
 
-1. Identify what drives <b>sales</b> and <b>repeat buying</b> 🔁  
-2. Optimize <b>pricing</b>, <b>pack sizes</b>, and <b>promotions</b> 📦  
-3. Improve <b>marketing efficiency</b> and <b>ROI</b> 🎯  
-4. Discover <b>high-potential regions</b> and <b>channels</b> for expansion 🗺️  
+| Objective Area | Goal | Output |
+|---|---|---|
+| 📦 **Product Performance** | Analyze pack-size & SKU-level performance | Best sellers + profit drivers + improvement zones |
+| 🔁 **Customer Retention** | Study repeat purchase behavior & churn patterns | Loyalty strategy + long-term growth levers |
+| 💸 **Pricing & Promotions** | Measure pricing & discount impact | Margin-safe pricing + optimized promo planning |
+| 🎯 **Marketing Efficiency** | Evaluate campaign performance & efficiency | ROI improvement + reduction of wasteful spend |
+| 🗺️ **Expansion Strategy** | Identify high-potential regions & channels | Expansion roadmap + demand hotspots |
+
 
 </span>
 </small>
@@ -60,51 +68,13 @@ This project addresses the need for <b>data-driven growth</b> and smarter <b>dec
 
 For more realtime business impact, I framed the following counter-questions for stakeholders across **Marketing, Product, Sales, Production, and Growth Section**:
 <small>
-1. **Growth Objective:**<br>
-     • Are we prioritizing **new customer acquisition** or **repeat purchases**, and what is the target uplift for the next **3–6 months**?<br>
-     • Are we **optimizing primarily** for **short-term sales growth** or for **long-term customer retention and brand trus**t — and should our **strategy differ based** on that objective?
-2. **Marketing ROI:** Which success metric matters most right now — **ROAS, CAC, cost per repeat customer, or contribution margin after marketing spend**?
-4. **Product Strategy:** Which SKUs are strategic priorities (**value packs vs premium variants**), and are we optimizing for **volume growth** or **margin growth**?
-5. **Sales & Channel Focus:** Which channel do we want to win (**Retail / D2C / Marketplace**)?
-</small>
 
-----
-## 📝 Objectives
-
-<small>
-
-- **Evaluate Product Performance:** Analyze pack-size and SKU-level performance to identify best-selling products, profitability drivers, and improvement areas 📦  
-- **Improve Customer Retention:** Understand repeat purchase behavior and churn patterns to increase customer loyalty and long-term growth 🔁  
-- **Optimize Pricing & Promotions:** Measure the impact of pricing and discounts to balance sales growth with healthy profit margins 💸  
-- **Assess Marketing Efficiency:** Evaluate campaign performance to improve ROI and reduce wasteful marketing spend 🎯  
-- **Enable Expansion Strategy:** Identify high-potential regions and sales channels for scalable growth and stronger market presence 🗺️  
-
-</small>
-
-
-
-
-----
-
-## ✔ **Scope & Responsibilities:**
-<small>
-- Structured the business problem and defined key success metrics<br>
-- Identified and quantified drivers of underperformance and growth<br>
-- Designed and executed the pre–post impact evaluation framework<br>
-- Synthesized insights into clear, actionable business recommendations
-</small>
-
-----
-## 💾 Data
-<small>
-  
-The analysis is powered by a high-volume real-world dataset comprising **1M+ records**, sourced from multiple business systems:
-
-- **CRM Data:** Customer profiles, purchase history, repeat behavior, and loyalty signals 🧑‍🤝‍🧑  
-- **ERP / Sales Data:** Orders, invoices, SKU-wise sales, pricing, discounts, and channel performance 🧾  
-- **Web & App Analytics:** Website traffic, conversions, product page views, and funnel drop-offs 🌐  
-- **Marketing Data:** Campaign spend, impressions, clicks, conversions, and ROI metrics 🎯  
-- **Production Data:** Manufacturing output, inventory availability, stock-outs, and SKU-level supply constraints 🏭 
+| Area | Key Question | Business Decision Enabled |
+|---|---|---|
+| 🎯 Growth | **Acquisition vs Repeat** — what is the **3–6 month uplift target**? | Growth roadmap (new vs retention-led) |
+| 💰 Marketing ROI | Priority metric: **ROAS / CAC / Cost per Repeat / Margin after spend**? | Budget allocation + campaign KPI framework |
+| 📦 Product Strategy | Which SKUs win: **Value packs vs Premium variants**? Optimize **volume or margin**? | SKU roadmap + pack-size optimization |
+| 🛒 Channel Focus | Where to win: **Retail / D2C / Marketplace**? | Channel strategy + execution focus |
 
 </small>
 
