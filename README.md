@@ -73,8 +73,8 @@ For more realtime business impact, I framed the following counter-questions for 
 |---|---|---|
 | 🎯 Growth | **Acquisition vs Repeat** — what is the **3–6 month uplift target**? | Growth roadmap (new vs retention-led) |
 | 💰 Marketing ROI | Priority metric: **ROAS / CAC / Cost per Repeat / Margin after spend**? | Budget allocation + campaign KPI framework |
-| 📦 Product Strategy | Which SKUs win: **Value packs vs Premium variants**? Optimize **volume or margin**? | SKU roadmap + pack-size optimization |
-| 🛒 Channel Focus | Where to win: **Retail / D2C / Marketplace**? | Channel strategy + execution focus |
+| 📦 Product Strategy | Optimize **volume or margin**? | SKU roadmap + pack-size optimization |
+| 🛒 Channel Focus | Priority metric: **Retail / D2C / Marketplace**- what is the **3–6 month uplift target**? | Channel strategy + execution focus |
 
 </small>
 
