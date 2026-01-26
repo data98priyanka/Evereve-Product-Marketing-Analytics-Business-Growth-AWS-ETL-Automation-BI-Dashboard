@@ -116,7 +116,7 @@ For more realtime business impact, I framed the following counter-questions for 
 
 
 
-**Team Size:** 2  
+**Team Size:** 2
 **Author:** Priyanka De  
 **Proflie** - [Priyanka De](https://www.linkedin.com/in/priyanka-de-711555289/)
 
