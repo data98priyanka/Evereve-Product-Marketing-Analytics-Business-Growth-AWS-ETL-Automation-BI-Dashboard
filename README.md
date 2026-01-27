@@ -80,6 +80,7 @@ For more realtime business impact, I framed the following counter-questions for 
 
 ---
 ## 📌 ETL Pipeline - Data Ingestion flowchart
+Built an end-to-end **AWS ETL & BI analytics platform** processing **1M+ records** across **CRM, ERP, Production, and Marketing** data using **Amazon S3, AWS Glue, Athena, and QuickSight**.
 <img src="IMAGES/etl -data -details1.png" width="900"/>
 
 ----
