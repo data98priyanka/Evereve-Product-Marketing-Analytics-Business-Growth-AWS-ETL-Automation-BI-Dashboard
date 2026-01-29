@@ -13,7 +13,7 @@
 ">
 
   <p align="center">
-  <img src="assets/project/roadmap.svg" width="700" />
+  <img src="IMAGES/roadmap.svg" width="700" />
 </p>
 
 
