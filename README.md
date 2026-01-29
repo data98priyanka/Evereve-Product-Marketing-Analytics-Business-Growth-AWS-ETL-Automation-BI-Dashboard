@@ -3,6 +3,38 @@
 <p style="font-size:12px; color:#555;">
   <b><i><u> 🔴 Product & Marketing Research Analyst initiative | ⭕ FMCG ⭕ Women’s Health & Personal Care ⭕ Feminine Hygiene ⭕ B2C</u></i></b>
 </p>
+<div align="center" style="
+  background: linear-gradient(90deg, #f2f2f2, #d9d9d9);
+  border: 1px solid #cfcfcf;
+  border-radius: 14px;
+  padding: 14px 18px;
+  margin: 14px 0;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.10);
+">
+
+  <p align="center">
+  <img src="assets/project/roadmap.svg" width="700" />
+</p>
+
+
+<p align="center">
+
+<b>1.</b> Understand Company Strategic Vision & Needs ➜
+<b>2.</b> Project Overview ➜
+<b>3.</b> Problem Statements ➜
+<b>4.</b> Objectives ➜
+<b>5.</b> Counter Questions to Stakeholders (Clarify Business Needs & Targets) ➜
+<b>6.</b> Data + ETL Flowchart ➜
+<b>7.</b> Live Power BI Dashboard ➜
+<b>8.</b> Insights + Recommendations (Storytelling) ➜
+<b>9.</b> Business Impact (Pre & Post Analysis) ➜
+<b>10.</b> Challenges ➜
+<b>11.</b> Enhancements ➜
+<b>12.</b> Boardroom PPT with Storytelling
+
+</p>
+
+</div>
 <p>
 <img src="IMAGES/logo.png" width="300" align="LEFT" style="margin-right:15px;"/>
   
