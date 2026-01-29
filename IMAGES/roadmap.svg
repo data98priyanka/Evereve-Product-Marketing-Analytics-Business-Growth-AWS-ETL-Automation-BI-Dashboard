@@ -1,0 +1,31 @@
+<svg width="980" height="85" viewBox="0 0 980 85" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- light grey gradient -->
+    <linearGradient id="miniGrey" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f7f7f7"/>
+      <stop offset="50%" stop-color="#ededed"/>
+      <stop offset="100%" stop-color="#dddddd"/>
+    </linearGradient>
+
+    <!-- soft shadow -->
+    <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- small rounded box -->
+  <rect x="160" y="18" width="600" height="50" rx="14" fill="url(#miniGrey)" filter="url(#shadow)"/>
+
+  <!-- minimal accent bar -->
+  <rect x="160" y="18" width="8" height="50" rx="14" fill="#6e6e6e"/>
+
+  <!-- headline -->
+  <text x="490" y="51"
+        text-anchor="middle"
+        font-family="Poppins, Arial, sans-serif"
+        font-size="18"
+        font-weight="800"
+        fill="#1f1f1f">
+    My Followed Project Execution Roadmap 
+  </text>
+</svg>
