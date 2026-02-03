@@ -24,13 +24,14 @@
 <b>3.</b> Problem Statements ➜
 <b>4.</b> Objectives ➜
 <b>5.</b> Counter Questions to Stakeholders (Clarify Business Needs & Targets) ➜
-<b>6.</b> Data + ETL Flowchart ➜
-<b>7.</b> Live Power BI Dashboard ➜
-<b>8.</b> Insights + Recommendations (Storytelling) ➜
-<b>9.</b> Business Impact (Pre & Post Analysis) ➜
-<b>10.</b> Challenges ➜
-<b>11.</b> Enhancements ➜
-<b>12.</b> Boardroom PPT with Storytelling
+<b>6.</b> EDA (Data Cleaning + Data Validation) + ETL Flowchart ➜
+<b>7.</b> Data Modelling chart ➜
+<b>8.</b> Live Power BI Dashboard ➜
+<b>9.</b> Insights + Recommendations (Storytelling) ➜
+<b>10.</b> Business Impact (Pre & Post Analysis) ➜
+<b>11.</b> Challenges ➜
+<b>12.</b> Enhancements ➜
+<b>13.</b> Boardroom PPT with Storytelling
 
 </p>
 
